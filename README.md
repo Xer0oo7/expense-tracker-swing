@@ -41,7 +41,7 @@ A simple, modern, and dependency-free Expense Tracker desktop application built 
 │       └── java
 │           └── ExpenseTrackerUI.java
 ├── README.md
-└── (optional) screenshot.png
+└── screenshot.png
 ```
 
 ## Usage
