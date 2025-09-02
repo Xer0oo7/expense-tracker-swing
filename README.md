@@ -57,7 +57,7 @@ A simple, modern, and dependency-free Expense Tracker desktop application built 
 MIT License. See [LICENSE](LICENSE) for details.
 
 ## Author
-- [Your Name](https://github.com/yourusername)
+- Deva Nandan (https://github.com/Xer0oo7)
 
 ---
 Feel free to fork, star, and contribute!
